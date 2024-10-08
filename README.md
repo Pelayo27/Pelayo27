@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hola 👋, Soy PELAYO QUISPE BAUTISTA</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 Estoy trabajando en la Oficina de Tecnologías de la Información de la Universidad Nacional de San Cristóbal de Huamanga [Sistema de Horario](http://horario.unsch.edu.pe/)
+- 🔭 Estoy trabajando en la Oficina de Tecnologías de la Información de la Universidad Nacional de San Cristóbal de Huamanga [Sistema de Acceso a la Información](http://apps.unsch.edu.pe)
 
 - Trabajo como freelancer **Sistema de inscripción de Posgrado de la UNSCH**
 
