@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Estoy trabajando en la Oficina de Tecnologías de la Información de la Universidad Nacional de San Cristóbal de Huamanga [Sistema de Horario](http://horario.unsch.edu.pe/)
 
-- Trabajo como freelams **Sistema de inscripción de Posgrado de la UNSCH**
+- Trabajo como freelancer **Sistema de inscripción de Posgrado de la UNSCH**
 
 - Me puedes escribir **pelayo.quispe.95@gmail.com**
 
